@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/thepiyushmalhotra/tai-lungg2/blob/output/github-contribution-grid-snake.svg)
 <!--
 **tai-lungg2/tai-lungg2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
